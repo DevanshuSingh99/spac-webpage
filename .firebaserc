@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "zerobalance-777fa",
+    "prod": "zerobalance-777fa",
+    "spac": "spac-web-app"
+  },
+  "targets": {
+    "zerobalance-777fa": {
+      "hosting": {
+        "spac": [
+          "spac-web-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
